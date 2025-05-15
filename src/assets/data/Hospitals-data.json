@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Ruby Hall Clinic",
+    "specialty": "Multi-specialty",
+    "hospital": "Ruby Hall Clinic",
+    "location": "Pune, India",
+    "image": "https://i.ytimg.com/vi/Ww3QQzCWfog/maxresdefault.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Artemis Hospitals",
+    "specialty": "Multi-specialty",
+    "hospital": "Artemis Hospitals",
+    "location": "Gurugram, India",
+    "image": "https://www.daniamedicare.com/wp-content/uploads/2022/08/Artemis5.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Apollo Hospitals",
+    "specialty": "Cardiology",
+    "hospital": "Apollo Hospitals",
+    "location": "Chennai, India",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.SG1CjVmoCMeTsp43iug4SAHaDU&pid=Api"
+  },
+  {
+    "id": 4,
+    "name": "Fortis Hospital",
+    "specialty": "Orthopedics",
+    "hospital": "Fortis Hospital",
+    "location": "Delhi, India",
+    "image": "https://www.indiabook.net/wp-content/uploads/2017/05/Fortis-Hospital-in-Delhi.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Global Hospital",
+    "specialty": "Neurology",
+    "hospital": "Global Hospital",
+    "location": "Mumbai, India",
+    "image": "https://www.yashfiin.com/wp-content/uploads/2019/12/Global-hospital-mumbai.jpg"
+  },
+  {
+    "id": 6,
+    "name": "KIMS Hospital",
+    "specialty": "Pediatrics",
+    "hospital": "KIMS Hospital",
+    "location": "Hyderabad, India",
+    "image": "https://assets.kimshospitals.com/images/editor/home-img-1576160114-1-1-1_1578669806.png"
+  },
+  {
+    "id": 7,
+    "name": "Max Healthcare",
+    "specialty": "Oncology",
+    "hospital": "Max Healthcare",
+    "location": "Noida, India",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkV7t-y4ERcTXG1GyezJpdDm8LcIY3oiNBHQ&s"
+  },
+  {
+    "id": 8,
+    "name": "Medanta - The Medicity",
+    "specialty": "Cardiac Surgery",
+    "hospital": "Medanta",
+    "location": "Gurugram, India",
+    "image": "https://www.medanta.org/wp-content/uploads/2020/09/aboutusimage.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Narayana Health",
+    "specialty": "Cardiology",
+    "hospital": "Narayana Health",
+    "location": "Bangalore, India",
+    "image": "https://www.narayanahealth.org/sites/all/themes/nhfront/images/logo.png"
+  },
+  {
+    "id": 10,
+    "name": "Manipal Hospitals",
+    "specialty": "Multi-specialty",
+    "hospital": "Manipal Hospitals",
+    "location": "Bangalore, India",
+    "image": "https://www.manipalhospitals.com/img/logo-manipal.png"
+  },
+  {
+    "id": 11,
+    "name": "BLK-Max Super specialty Hospital",
+    "specialty": "Oncology",
+    "hospital": "BLK-Max Hospital",
+    "location": "Delhi, India",
+    "image": "https://www.blkhospital.com/images/blk-logo.png"
+  },
+  {
+    "id": 12,
+    "name": "Lilavati Hospital",
+    "specialty": "Orthopedics",
+    "hospital": "Lilavati Hospital",
+    "location": "Mumbai, India",
+    "image": "https://www.lilavatihospital.com/images/logo.png"
+  },
+  {
+    "id": 13,
+    "name": "Christian Medical College (CMC)",
+    "specialty": "General Surgery",
+    "hospital": "CMC Hospital",
+    "location": "Vellore, India",
+    "image": "https://www.cmch-vellore.edu/wp-content/uploads/2021/06/CMC-Logo.png"
+  },
+  {
+    "id": 14,
+    "name": "Tata Memorial Hospital",
+    "specialty": "Oncology",
+    "hospital": "Tata Memorial",
+    "location": "Mumbai, India",
+    "image": "https://tmc.gov.in/images/tmc-logo.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Sir Ganga Ram Hospital",
+    "specialty": "Multi-specialty",
+    "hospital": "Sir Ganga Ram Hospital",
+    "location": "Delhi, India",
+    "image": "https://www.sgrh.com/images/logo.png"
+  }
+]

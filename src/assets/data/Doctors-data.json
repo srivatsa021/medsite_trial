@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. John Doe",
+    "specialties": "General Medicine",
+    "hospital": "Ruby Hall Clinic",
+    "location": "Pune, India",
+    "image": "doc1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Jane Smith",
+    "specialties": "Cardiology",
+    "hospital": "Apollo Hospitals",
+    "location": "Chennai, India",
+    "image": "doc2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Mike Johnson",
+    "specialties": "Dermatology",
+    "hospital": "Global Hospital",
+    "location": "Mumbai, India",
+    "image": "doc3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Sarah Lee",
+    "specialties": "Neurology",
+    "hospital": "Global Hospital",
+    "location": "Mumbai, India",
+    "image": "doc4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Brian Kim",
+    "specialties": "Orthopedics",
+    "hospital": "Fortis Hospital",
+    "location": "Delhi, India",
+    "image": "doc5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Alice White",
+    "specialties": "Pediatrics",
+    "hospital": "KIMS Hospital",
+    "location": "Hyderabad, India",
+    "image": "doc6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Rajesh Kumar",
+    "specialties": "Neurology",
+    "hospital": "Global Hospital",
+    "location": "Mumbai, India",
+    "image": "doc7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Emily Davis",
+    "specialties": "Pediatrics",
+    "hospital": "KIMS Hospital",
+    "location": "Hyderabad, India",
+    "image": "doc8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Ahmed Ali",
+    "specialties": "Orthopedics",
+    "hospital": "Lilavati Hospital",
+    "location": "Mumbai, India",
+    "image": "doc9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Maria Gonzalez",
+    "specialties": "Dermatology",
+    "hospital": "Global Hospital",
+    "location": "Mumbai, India",
+    "image": "doc10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Dr. James Smith",
+    "specialties": "Oncology",
+    "hospital": "Max Healthcare",
+    "location": "Noida, India",
+    "image": "doc11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Lisa Wong",
+    "specialties": "Cardiology",
+    "hospital": "Narayana Health",
+    "location": "Bangalore, India",
+    "image": "doc12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Omar Hassan",
+    "specialties": "Urology",
+    "hospital": "Ruby Hall Clinic",
+    "location": "Pune, India",
+    "image": "doc13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Hannah Lee",
+    "specialties": "Endocrinology",
+    "hospital": "Sir Ganga Ram Hospital",
+    "location": "Delhi, India",
+    "image": "doc14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Dr. William Brown",
+    "specialties": "General Surgery",
+    "hospital": "Christian Medical College (CMC)",
+    "location": "Vellore, India",
+    "image": "doc15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Dr. Sophia Martinez",
+    "specialties": "Psychiatry",
+    "hospital": "Medanta - The Medicity",
+    "location": "Gurugram, India",
+    "image": "doc16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Dr. David Kim",
+    "specialties": "Ophthalmology",
+    "hospital": "Artemis Hospitals",
+    "location": "Gurugram, India",
+    "image": "doc17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Dr. Isabella Russo",
+    "specialties": "Gynecology",
+    "hospital": "Manipal Hospitals",
+    "location": "Bangalore, India",
+    "image": "doc18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Dr. Peter Zhang",
+    "specialties": "Pulmonology",
+    "hospital": "Sir Ganga Ram Hospital",
+    "location": "Delhi, India",
+    "image": "doc19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Dr. Olivia Bennett",
+    "specialties": "Rheumatology",
+    "hospital": "Fortis Hospital",
+    "location": "Delhi, India",
+    "image": "doc20.jpg"
+  }
+]
